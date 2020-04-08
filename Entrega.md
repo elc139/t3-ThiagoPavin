@@ -2,7 +2,7 @@
 -------------------------------------
 
 **Nome:** Thiago Bellotti Pavin
-<br><br>
+<br>
 **Disciplina:** ELC139 - Programação Paralela
 
 ## Cláusula Schedule
