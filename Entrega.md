@@ -1,8 +1,7 @@
 # T3: Scheduling com OpenMP
 -------------------------------------
 
-**Nome:** Thiago Bellotti Pavin
-**Disciplina:** ELC139 - Programação Paralela
+**Nome:** Thiago Bellotti Pavin		**Disciplina:** ELC139 - Programação Paralela
 
 ## Cláusula Schedule
 
