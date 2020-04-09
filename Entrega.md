@@ -4,6 +4,8 @@
 **Nome:** Thiago Bellotti Pavin
 <br>
 **Disciplina:** ELC139 - Programação Paralela
+<br>
+**Link para o programa:** https://github.com/elc139/t3-ThiagoPavin/blob/master/OpenMPDemoABC.cpp
 
 ## Cláusula Schedule
 
